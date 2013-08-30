@@ -1,0 +1,13 @@
+{
+	"name": "links",
+	"description": "Mii packaged app.",
+	"version": "0.1",
+	"app": {
+		"background": {
+			"scripts": ["background.js"]
+		}
+	},
+	"permissions": [
+		// "fileBrowserHandler"
+	]
+}
